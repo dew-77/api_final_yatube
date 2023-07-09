@@ -6,7 +6,7 @@
 git clone https://github.com/dew-77/api_final_yatube.git
 ```
 ```sh
-cd api_final_yatube
+cd yatube_api
 ```
 Cоздать и активировать виртуальное окружение:
 ```sh
